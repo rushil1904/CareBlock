@@ -39,6 +39,7 @@ CareBlock is a blockchain-based healthcare data sharing platform that leverages 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Project Demo
+Checkout the video below. 
 
 <a href="https://www.youtube.com/watch?v=psPjif0U5gk">
     <img src="https://github.com/rushil1904/CareBlock/blob/main/Untitled%20design%20(7).png?raw=true" alt="Website Walkthrough" width="600"/>
