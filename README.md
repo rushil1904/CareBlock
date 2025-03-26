@@ -4,7 +4,7 @@ CareBlock is a decentralized healthcare records management system built on block
 
 **Check out the following walkthrough video:**
 
-![CareBlock](https://github.com/rushil1904/CareBlock/blob/main/Untitled%20design%20(7).png?raw=true)
+[![CareBlock](https://github.com/rushil1904/CareBlock/blob/main/Untitled%20design%20(7).png?raw=true)](https://youtu.be/psPjif0U5gk?si=rwmfl77tHmfN_X2Q)
 
 ## 🚀 Features
 
