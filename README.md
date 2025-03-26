@@ -2,7 +2,7 @@
 
 CareBlock is a decentralized healthcare records management system built on blockchain technology that allows patients to securely store, manage, and selectively share their medical records with healthcare providers.
 
-![CareBlock](https://via.placeholder.com/800x400?text=CareBlock:+Secure+Healthcare+Records)
+![CareBlock](https://github.com/rushil1904/CareBlock/blob/main/Untitled%20design%20(7).png?raw=true)
 
 ## 🚀 Features
 
@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Project Link: [https://github.com/yourusername/careblock](https://github.com/yourusername/careblock)
+Project Link: [https://github.com/rushil1904/CareBlock](https://github.com/rushil1904/CareBlock)
 
 ## 🗂️ Project Structure
 
