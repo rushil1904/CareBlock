@@ -2,6 +2,8 @@
 
 CareBlock is a decentralized healthcare records management system built on blockchain technology that allows patients to securely store, manage, and selectively share their medical records with healthcare providers.
 
+Check the following walkthrough video:
+
 ![CareBlock](https://github.com/rushil1904/CareBlock/blob/main/Untitled%20design%20(7).png?raw=true)
 
 ## 🚀 Features
